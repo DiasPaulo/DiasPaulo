@@ -1,10 +1,5 @@
 <h1 align="center">Paulo Dias</h1>
 
-- [Profile](https://github.com/diasPaulo "Paulo Dias")
-- [Email](mailto:paulodias.br@gmail.com?subject=Olá "Olá")
-- [Website](https://diaspaulo.github.io "Bem-vindo")
-- [Telegram](https://t.me/DiasPH "Diga oi")
-
 <!--
 **diasPaulo/diasPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <h2>Contato</h2>
+<h2>Contato</h2>
 <p>
   <a href="https://linkedin.com/in/paulo-dias-8b8bb522" target="blank"><img src="./assets/images/linkedin-svgrepo-com.svg" alt="Linkedin" height="40" width="40" /></a>
   <a href="https://t.me/DiasPH" target="blank"><img src="./assets/images/telegram-svgrepo-com.svg" alt="Telegram" height="40" width="40" /></a>
-</p> -->
+</p>
 
 <h2>Linguagens e Ferramentas</h2>
 <p>
